@@ -17,6 +17,7 @@
 <img src="https://i.ibb.co/RQq29y0/Java-Script.png">
 <img src="https://i.ibb.co/k5zHYdY/react.png">
 <img src="https://i.ibb.co/R4ZHmLr/mongo.png">
+<img src="https://i.ibb.co/6m84LzH/express.png">
 <img src="https://i.ibb.co/2n9PxFJ/tailwind.png">
 </p>
 
