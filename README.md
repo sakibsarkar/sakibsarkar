@@ -8,7 +8,7 @@
 
  ## 🦾 Technology that i know
 
-##### I work with  React,Firebase, MongoDB, and Express.js. My expertise lies in crafting captivating user interfaces, and I have a special knack for mastering the art of raw CSS. And I also possess knowledge in Node.js. Let's bring your projects to life with seamless design and functionality
+##### I work with  React,MongoDB, Node,Express.js, CSS3 and javascript. My expertise lies in crafting captivating user interfaces, and I have a special knack for mastering the art of raw CSS. And I also possess knowledge in Node.js. Let's bring your projects to life with seamless design and functionality
 <p align="center">
 </br>
 <img src="https://i.ibb.co/rb9Vps9/firebase.png">
