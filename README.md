@@ -24,7 +24,7 @@
 <br/>
 
 
-###  My ⚙️ Tools & 🧑‍💻skills 
+### 🧑‍💻 My Tools & skills 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,js,tailwind,mongo,firebase,express,nodejs,vite,html,css,vscode,github">
 </p>
