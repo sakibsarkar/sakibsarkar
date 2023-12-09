@@ -1,4 +1,4 @@
-[![Banner](https://i.ibb.co/5r0mVMq/Nazmul-islam-sakib.png "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/najmul-islam-sakib-204938253/)
+[![Banner](https://i.ibb.co/3WCBscX/BANNERMP4.gif "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/najmul-islam-sakib-204938253/)
 
 
 ## 📈 Current States
