@@ -22,11 +22,18 @@
 </p>
 
  ### 🔥 My profile summary
+<p align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakibsarkar&theme=city_lights)
+</p>
+<p align="center">
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakibsarkar&theme=city_lights)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakibsarkar&theme=city_lights)
+</p>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakibsarkar&theme=city_lights&utcOffset=8)
 
