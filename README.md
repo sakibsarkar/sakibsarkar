@@ -23,19 +23,24 @@
 
  ### 🔥 My profile summary
 <p align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakibsarkar&theme=city_lights)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakibsarkar&theme=city_lights" alt="GitHub Profile Summary Card" />
 </p>
+
+
+
+
+
+
 <p align="center">
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakibsarkar&theme=city_lights)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakibsarkar&theme=city_lights)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakibsarkar&theme=city_lights" alt="Top Repositories per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakibsarkar&theme=city_lights" alt="Most Used Languages" />
 </p>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakibsarkar&theme=city_lights&utcOffset=8)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakibsarkar&theme=city_lights&utcOffset=8" alt="Productive Time" style="display:block; width: 100%;" />
+</p>
+
 
 
 
