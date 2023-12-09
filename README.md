@@ -11,6 +11,21 @@
 ##### I work with  React,MongoDB, Node,Express.js, CSS3 and javascript. My expertise lies in crafting captivating user interfaces, and I have a special knack for mastering the art of raw CSS. And I also possess knowledge in Node.js. Let's bring your projects to life with seamless design and functionality
 <p align="center">
 </br>
+
+### My cureent Focus
+- 🦾 I'm currently working on MERN. and exploring new things to enhance my skills. 
+
+- 🔥 I'm currently learning advance techniques
+ of React, Node js , MongoDB to stay optimized with the new technologys
+
+
+
+ - 💡Fun Fact about me :I love to style my web application with Raww CSS. 
+
+<br/>
+
+
+### 🧑‍💻 My skills 
 <img src="https://i.ibb.co/rb9Vps9/firebase.png">
 <img src="https://i.ibb.co/xhC8Rg7/HTML.png">
 <img src="https://i.ibb.co/qWDwJW2/css.png">
@@ -23,7 +38,7 @@
 
  ### 🔥 My profile summary
 <p align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakibsarkar&theme=city_lights" alt="GitHub Profile Summary Card" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakibsarkar&theme=city_lights" alt="GitHub Profile Summary Card" />
 </p>
 
 
@@ -32,15 +47,15 @@
 
 
 <p align="center">
-  <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakibsarkar&theme=city_lights" alt="Top Repositories per Language" />
-  <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakibsarkar&theme=city_lights" alt="Most Used Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakibsarkar&theme=city_lights" alt="Top Repositories per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakibsarkar&theme=city_lights" alt="Most Used Languages" />
 </p>
 
 
 <p align="center">
-  <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakibsarkar&theme=city_lights" alt="Stats" style="display:inline-block; margin-right: 10px;" />
-  <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakibsarkar&theme=city_lights&utcOffset=8" alt="Productive Time" style="display:inline-block;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakibsarkar&theme=city_lights&utcOffset=8" alt="Productive Time" style="display:block; width: 100%;" />
 </p>
+
 
 
 
