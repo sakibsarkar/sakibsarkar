@@ -38,8 +38,8 @@
 
 
 <p align="center">
-  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakibsarkar&theme=city_lights" alt="Stats" style="display:inline-block; margin-right: 10px;" />
-  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakibsarkar&theme=city_lights&utcOffset=8" alt="Productive Time" style="display:inline-block;" />
+  <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakibsarkar&theme=city_lights" alt="Stats" style="display:inline-block; margin-right: 10px;" />
+  <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakibsarkar&theme=city_lights&utcOffset=8" alt="Productive Time" style="display:inline-block;" />
 </p>
 
 
