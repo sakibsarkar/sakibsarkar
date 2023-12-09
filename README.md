@@ -6,20 +6,20 @@
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=sakibsarkar&theme=transparent&hide_border=true" />
 </p>
 
- ## 🦾 Technology that i know
-
+ ## 🦾 The technology I work with
+ 
 ##### I work with  React,MongoDB, Node,Express.js, CSS3 and javascript. My expertise lies in crafting captivating user interfaces, and I have a special knack for mastering the art of raw CSS. And I also possess knowledge in Node.js. Let's bring your projects to life with seamless design and functionality
 
 
-## My cureent Focus
+## 🎯 My cureent Focus
 - 🦾 I'm currently working on MERN. and exploring new things to enhance my skills. 
 
 - 🔥 I'm currently learning advance techniques
- of React, Node js , MongoDB to stay optimized with the new technologys
+ of React, Node js , MongoDB to stay optimized with the new technology's
 
 
 
- - 💡Fun Fact about me :I love to style my web application with Raww CSS. 
+ - 💡Fun Fact about me : I love to style my web application with Raw CSS. 
 
 <br/>
 
