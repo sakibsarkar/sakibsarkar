@@ -6,6 +6,21 @@
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=sakibsarkar&theme=transparent&hide_border=true" />
 </p>
 
+<p align="center">
+  <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakibsarkar&theme=city_lights" alt="Top Repositories per Language" />
+  <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakibsarkar&theme=city_lights" alt="Most Used Languages" />
+</p>
+
+
+<p align="center">
+ <p align="center">
+  <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakibsarkar&theme=city_lights" alt="Stats" />
+  <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakibsarkar&theme=city_lights&utcOffset=8" alt="Productive Time" />
+</p>
+
+</p>
+
+
  ## 🦾 The technology I work with
  
 ##### I work with  React,MongoDB, Node,Express.js, CSS3 and javascript. My expertise lies in crafting captivating user interfaces, and I have a special knack for mastering the art of raw CSS. And I also possess knowledge in Node.js. Let's bring your projects to life with seamless design and functionality
