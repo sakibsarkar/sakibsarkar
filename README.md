@@ -24,16 +24,9 @@
 <br/>
 
 
-### 🧑‍💻 My skills 
+###  My ⚙️ Tools & 🧑‍💻skills 
 <p align="center">
-<img src="https://i.ibb.co/rb9Vps9/firebase.png">
-<img src="https://i.ibb.co/xhC8Rg7/HTML.png">
-<img src="https://i.ibb.co/qWDwJW2/css.png">
-<img src="https://i.ibb.co/RQq29y0/Java-Script.png">
-<img src="https://i.ibb.co/k5zHYdY/react.png">
-<img src="https://i.ibb.co/R4ZHmLr/mongo.png">
-<img src="https://i.ibb.co/6m84LzH/express.png">
-<img src="https://i.ibb.co/2n9PxFJ/tailwind.png">
+<img src="https://skillicons.dev/icons?i=react,js,tailwind,mongo,firebase,express,nodejs,vite,html,css,vscode,github">
 </p>
 
 <br/>
