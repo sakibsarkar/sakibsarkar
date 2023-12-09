@@ -32,8 +32,8 @@
 
 
 <p align="center">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakibsarkar&theme=city_lights" alt="Top Repositories per Language" />
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakibsarkar&theme=city_lights" alt="Most Used Languages" />
+  <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakibsarkar&theme=city_lights" alt="Top Repositories per Language" />
+  <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakibsarkar&theme=city_lights" alt="Most Used Languages" />
 </p>
 
 
