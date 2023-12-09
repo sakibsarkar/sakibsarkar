@@ -25,6 +25,28 @@
 
 <br/>
 
+
+
+## Connect with me  
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center;gap:10px">
+    <a href="https://www.linkedin.com/in/najmul-islam-sakib-204938253/" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.facebook.com/me.facebook.id" target="_blank">
+      <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> 
+    </a>
+  </div>
+</div>
+
+
+
+ 
+
+
+<br/>
+
+
 ## 📈 Current States
 <p align="center">
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=sakibsarkar&theme=transparent&hide_border=true" />
@@ -49,14 +71,3 @@
 </p>
 
 </p>
-
-
-
-
-
-
-
-
-
-
-
