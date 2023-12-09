@@ -38,8 +38,10 @@
 
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakibsarkar&theme=city_lights&utcOffset=8" alt="Productive Time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakibsarkar&theme=city_lights" alt="Stats" style="display:inline-block; margin-right: 10px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakibsarkar&theme=city_lights&utcOffset=8" alt="Productive Time" style="display:inline-block;" />
 </p>
+
 
 
 
