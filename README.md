@@ -32,14 +32,14 @@
 
 
 <p align="center">
-  <img width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakibsarkar&theme=city_lights" alt="Top Repositories per Language" />
-  <img width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakibsarkar&theme=city_lights" alt="Most Used Languages" />
+  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakibsarkar&theme=city_lights" alt="Top Repositories per Language" />
+  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakibsarkar&theme=city_lights" alt="Most Used Languages" />
 </p>
 
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakibsarkar&theme=city_lights" alt="Stats" style="display:inline-block; margin-right: 10px;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakibsarkar&theme=city_lights&utcOffset=8" alt="Productive Time" style="display:inline-block;" />
+  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakibsarkar&theme=city_lights" alt="Stats" style="display:inline-block; margin-right: 10px;" />
+  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakibsarkar&theme=city_lights&utcOffset=8" alt="Productive Time" style="display:inline-block;" />
 </p>
 
 
