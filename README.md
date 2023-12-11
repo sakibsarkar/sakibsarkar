@@ -30,27 +30,6 @@ This application is made for managing assignment's , The app likely has a user-f
 
 
 
-# Center point - Building management application
-## Live link - [Center point](https://assignment-12-65a07.web.app/)
-## 🔗 Server side repository - [Center_Point_Server](https://github.com/sakibsarkar/Center_Point_Server)
-
-### 💡 About this project
-
-This web application serves as a comprehensive solution for efficiently managing a building in Gulshan, Dhaka. It simplifies various aspects of property management, providing features that enhance communication, facilitate agreements, and streamline the overall administration of the building
-
-
-# MAuto - Car selling website (MERN)
-## Live link - [MAuto](https://assignment-10-b5c63.web.app)
-## Server side repository link - [M_Auto_SERVER](https://github.com/sakibsarkar/M_Auto_SERVER)
-
-
-### 💡About this project 
-Mauto is a dynamic car selling website built on the MERN (MongoDB, Express.js, React, Node.js) stack. This project allows users to explore a variety of cars from different brands, update existing listings, add new products, and delete items seamlessly. The application leverages MongoDB for efficient CRUD (Create, Read, Update, Delete) operations, providing a user-friendly interface for managing car listings.
-
-
-<br/>
-
-
 ### 🧑‍💻 My Tools & skills 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,js,tailwind,mongo,firebase,express,nodejs,vite,html,css,vscode,github">
