@@ -1,4 +1,4 @@
-[![Banner](https://ibb.co/TYNHgm3 "image")](https://www.linkedin.com/in/najmul-islam-sakib-204938253/)
+[![Banner](https://i.ibb.co/5r0mVMq/Nazmul-islam-sakib.png "image")](https://www.linkedin.com/in/najmul-islam-sakib-204938253/)
 
  ## 🦾 The technology I work with
  
