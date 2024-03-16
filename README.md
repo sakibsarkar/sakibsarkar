@@ -22,7 +22,7 @@
 
 ### 🧑‍💻 My Tools & skills 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,tailwind,mongo,firebase,express,nodejs,vite,html,css,vscode,github">
+<img src="https://skillicons.dev/icons?i=react,next,js,typescript,tailwind,mongo,firebase,express,nodejs,vite,html,css,vscode,github">
 </p>
 
 <br/>
