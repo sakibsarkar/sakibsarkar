@@ -69,7 +69,7 @@
 <p align="center">
  <p align="center">
   <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakibsarkar&theme=city_lights" alt="Stats" />
-  <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakibsarkar&theme=city_lights&utcOffset=8" alt="Productive Time" />
+  <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakibsarkar&theme=city_lights&utcOffset=6" alt="Productive Time" />
 </p>
 
 </p>
