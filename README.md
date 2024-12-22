@@ -1,4 +1,4 @@
-[![Banner](https://res.cloudinary.com/dqgynvtyz/image/upload/v1734883003/Nazmul_islam_sakib_utkykm.gif "image")](https://www.linkedin.com/in/najmul-islam-sakib-204938253/)
+[![Banner](https://res.cloudinary.com/dqgynvtyz/image/upload/v1734883615/ezgif-6-69193903c7_tjymaq.gif "image")](https://www.linkedin.com/in/najmul-islam-sakib-204938253/)
 
  ## 🦾 The technology I work with
  
