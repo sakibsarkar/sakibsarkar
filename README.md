@@ -1,6 +1,6 @@
 [![Banner](https://res.cloudinary.com/dqgynvtyz/image/upload/v1734883615/ezgif-6-69193903c7_tjymaq.gif "image")](https://www.linkedin.com/in/najmul-islam-sakib-204938253/)
 
- ## 🦾 The technology I work with
+ ## 🦾 About me
  
 ##### Full-stack developer skilled in React, Next.js, TypeScript, Node.js, Express.js, and MongoDB, with a special knack for mastering backend development. Proficient in Prisma and SQL, I craft seamless user experiences and scalable solutions to bring your ideas to life
 
@@ -43,7 +43,7 @@
 <br/>
 
 
-### 🧑‍💻 My Tools & skills 
+### 🧑‍💻 The technology I work with
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,next,js,typescript,tailwind,mongo,prisma,mysql,postgres,firebase,express,nodejs,vite,html,css,vscode,github">
 </p>
