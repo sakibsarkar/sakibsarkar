@@ -2,49 +2,14 @@
 
  ## 🦾 The technology I work with
  
-##### I work with  React,MongoDB, Node,Express.js, CSS3 and javascript. My expertise lies in crafting captivating user interfaces, and I have a special knack for mastering the art of raw CSS. And I also possess knowledge in Node.js. Let's bring your projects to life with seamless design and functionality
+##### Full-stack developer skilled in React, Next.js, TypeScript, Node.js, Express.js, and MongoDB, with a special knack for mastering backend development. Proficient in Prisma and SQL, I craft seamless user experiences and scalable solutions to bring your ideas to life
 
 
-## 🎯 My cureent Focus
-- 🦾 I'm currently working on MERN. and exploring new things to enhance my skills. 
+## 🎯 My current Focus
+- 🦾 I'm currently working on Fullstack development. and exploring new backend things to enhance my skills. 
 
-- 🔥 I'm currently learning advance techniques
- of React, Node js , MongoDB to stay optimized with the new technology's
-
-
-
- - 💡Fun Fact about me : I love to style my web application with Raw CSS. 
-
-<br/>
-
-
-
-
-### 🧑‍💻 My Tools & skills 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,next,js,typescript,tailwind,mongo,prisma,mysql,postgres,firebase,express,nodejs,vite,html,css,vscode,github">
-</p>
-
-<br/>
-
-
-
-## Connect with me  
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center;gap:10px">
-    <a href="https://www.linkedin.com/in/nazmul-islam-sakib-204938253/" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://www.facebook.com/me.facebook.id" target="_blank">
-      <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> 
-    </a>
-  </div>
-</div>
-
-
-
- 
-
+- 🔥 I'm currently learning advanced techniques
+ of the backend world.
 
 <br/>
 
@@ -73,3 +38,32 @@
 </p>
 
 </p>
+
+
+<br/>
+
+
+### 🧑‍💻 My Tools & skills 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,next,js,typescript,tailwind,mongo,prisma,mysql,postgres,firebase,express,nodejs,vite,html,css,vscode,github">
+</p>
+
+<br/>
+
+
+## Connect with me  
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center;gap:10px">
+    <a href="https://www.linkedin.com/in/nazmul-islam-sakib-204938253/" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.facebook.com/me.facebook.id" target="_blank">
+      <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> 
+    </a>
+  </div>
+</div>
+
+
+
+
+
